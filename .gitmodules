@@ -1,4 +1,0 @@
-[submodule "dolly"]
-	path = dolly
-	url = https://github.com/ada-x64/dolly
-		branch = "main"

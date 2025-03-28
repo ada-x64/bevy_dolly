@@ -1870,6 +1870,7 @@ dependencies = [
 [[package]]
 name = "dolly"
 version = "0.4.2"
+source = "git+https://github.com/ada-x64/dolly?branch=2024-ed#59341acee0e54486a040b86eed832a950782dce5"
 dependencies = [
  "bevy_math",
  "bevy_transform",
